@@ -15,7 +15,7 @@ gantt
 
 ##PERT/CPM 圖
 
-![image](picture or gif url)
+![image](https://github.com/C110118211/nkust/commit/6edf08780fa92caa40556c036d1807905611fe03)
 
 
 ##關鍵路徑
