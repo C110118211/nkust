@@ -16,6 +16,7 @@ gantt
 ##PERT/CPM 圖
 
 ![image](crm.jpg)
+![crm](crm.jpg "crm")
 
 
 ##關鍵路徑
